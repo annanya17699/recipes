@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/recipes/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/recipes/static/js/main.23bd1916.chunk.js",
+    "main.js.map": "/recipes/static/js/main.23bd1916.chunk.js.map",
+    "runtime-main.js": "/recipes/static/js/runtime-main.050ef322.js",
+    "runtime-main.js.map": "/recipes/static/js/runtime-main.050ef322.js.map",
+    "static/js/2.90a2cd89.chunk.js": "/recipes/static/js/2.90a2cd89.chunk.js",
+    "static/js/2.90a2cd89.chunk.js.map": "/recipes/static/js/2.90a2cd89.chunk.js.map",
+    "static/js/3.e80783a5.chunk.js": "/recipes/static/js/3.e80783a5.chunk.js",
+    "static/js/3.e80783a5.chunk.js.map": "/recipes/static/js/3.e80783a5.chunk.js.map",
+    "index.html": "/recipes/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/recipes/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.90a2cd89.chunk.js.LICENSE.txt": "/recipes/static/js/2.90a2cd89.chunk.js.LICENSE.txt",
+    "static/media/icecream.ff2efbe6.jfif": "/recipes/static/media/icecream.ff2efbe6.jfif",
+    "static/media/lemonade.af8cde3c.jfif": "/recipes/static/media/lemonade.af8cde3c.jfif",
+    "static/media/logo.6ce24c58.svg": "/recipes/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.050ef322.js",
+    "static/js/2.90a2cd89.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.23bd1916.chunk.js"
+  ]
+}
